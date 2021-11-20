@@ -1,2 +1,8 @@
 # Ying-Yang-Loader
- credit AngularGuy
+
+## Preview:
+
+![alt text](https://raw.githubusercontent.com/Shivshreyas/Ying-Yang-Loader/main/gif.gif)
+ 
+ 
+#### credit: AngularGuy
